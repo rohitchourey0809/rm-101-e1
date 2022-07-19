@@ -1,8 +1,0 @@
-.task {
-  /* Sample  */
-  display: flex;
-  flex-direction: row;
-}
-.task-remove-button {
-  background-color: var(rgba(255, 255, 255, 0));
-}
